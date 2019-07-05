@@ -10,7 +10,7 @@ mapreduce的优点就不说，最主要的还是集群思想
   
   
 //  
-this project may be can guide a person who is struggling against mapreduce(hadoop)  
+this project may guide a person who is struggling against mapreduce(hadoop)  
 and all files are on english  
 my own mail address:  
 2622171596@qq.com  
