@@ -1,0 +1,26 @@
+2019-07-04 19:03:26  [ http-bio-8080-exec-3:0 ] - [ INFO ]  MLog clients using log4j logging.
+2019-07-04 19:03:26  [ http-bio-8080-exec-3:145 ] - [ INFO ]  Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2019-07-04 19:03:26  [ http-bio-8080-exec-3:518 ] - [ INFO ]  Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeg5sa31gcelulr7wlxz|3d37d68a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeg5sa31gcelulr7wlxz|3d37d68a, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://192.168.77.80:3306/Web-Shop?useUnicode=true&characterEncoding=UTF-8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 0, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 15, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 3, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2019-07-04 19:03:50  [ http-bio-8080-exec-9:24035 ] - [ INFO ]  	123645764	Wed Jul 17 00:00:00 CST 2019	男	regist
+2019-07-04 19:04:00  [ http-bio-8080-exec-7:33895 ] - [ INFO ]  	Thu Jul 04 19:04:00 CST 2019	login
+2019-07-04 19:04:04  [ http-bio-8080-exec-4:38605 ] - [ INFO ]  	Thu Jul 04 19:04:04 CST 2019	华为 Ascend Mate7	手机数码	browse
+2019-07-04 19:04:07  [ http-bio-8080-exec-10:40945 ] - [ INFO ]  	Thu Jul 04 19:04:07 CST 2019	华硕（ASUS）经典系列R557LI	电脑办公	browse
+2019-07-04 19:04:09  [ http-bio-8080-exec-3:43352 ] - [ INFO ]  	Thu Jul 04 19:04:09 CST 2019	戴尔（DELL）灵越 飞匣3000系列	电脑办公	browse
+2019-07-04 19:04:11  [ http-bio-8080-exec-7:44863 ] - [ INFO ]  	Thu Jul 04 19:04:11 CST 2019	Apple 配备 Retina 显示屏的 MacBook	电脑办公	browse
+2019-07-04 19:04:13  [ http-bio-8080-exec-9:46736 ] - [ INFO ]  	Thu Jul 04 19:04:13 CST 2019	微星（MSI）GE62 2QC-264XCN	电脑办公	browse
+2019-07-04 19:04:14  [ http-bio-8080-exec-7:48479 ] - [ INFO ]  	Thu Jul 04 19:04:14 CST 2019	机械革命（MECHREVO）MR X6S-M	电脑办公	browse
+2019-07-04 19:04:18  [ http-bio-8080-exec-1:52084 ] - [ INFO ]  	Thu Jul 04 19:04:18 CST 2019	中兴 AXON	手机数码	browse
+2019-07-04 19:04:20  [ http-bio-8080-exec-10:54045 ] - [ INFO ]  	Thu Jul 04 19:04:20 CST 2019	HTC One M9+	手机数码	browse
+2019-07-04 19:04:24  [ http-bio-8080-exec-6:58586 ] - [ INFO ]  	Thu Jul 04 19:04:24 CST 2019	神舟（HASEE） 战神K660D-i7D2	电脑办公	browse
+2019-07-04 19:04:29  [ http-bio-8080-exec-3:62618 ] - [ INFO ]  	神舟（HASEE） 战神K660D-i7D2	5499.0	电脑办公	Thu Jul 04 19:04:29 CST 2019	order
+2019-07-04 19:04:29  [ http-bio-8080-exec-3:62620 ] - [ INFO ]  	HTC One M9+	3499.0	手机数码	Thu Jul 04 19:04:29 CST 2019	order
+2019-07-04 19:05:15  [ http-bio-8080-exec-3:109312 ] - [ INFO ]  	Thu Jul 04 19:05:15 CST 2019	华为 HUAWEI Mate S 臻享版	手机数码	browse
+2019-07-04 19:05:17  [ http-bio-8080-exec-6:111206 ] - [ INFO ]  	Thu Jul 04 19:05:17 CST 2019	华为 HUAWEI Mate S 臻享版	手机数码	browse
+2019-07-04 19:05:19  [ http-bio-8080-exec-9:112620 ] - [ INFO ]  	Thu Jul 04 19:05:19 CST 2019	华为 HUAWEI Mate S 臻享版	手机数码	browse
+2019-07-04 19:05:20  [ http-bio-8080-exec-4:114060 ] - [ INFO ]  	Thu Jul 04 19:05:20 CST 2019	HTC One M9+	手机数码	browse
+2019-07-04 19:05:23  [ http-bio-8080-exec-2:117362 ] - [ INFO ]  	Thu Jul 04 19:05:23 CST 2019	联想（Lenovo）小新V3000经典版	电脑办公	browse
+2019-07-04 19:05:26  [ http-bio-8080-exec-4:119992 ] - [ INFO ]  	Thu Jul 04 19:05:26 CST 2019	联想（Lenovo）小新V3000经典版	电脑办公	browse
+2019-07-04 19:05:28  [ http-bio-8080-exec-2:121997 ] - [ INFO ]  	Thu Jul 04 19:05:28 CST 2019	联想（Lenovo）小新V3000经典版	电脑办公	browse
+2019-07-04 19:05:30  [ http-bio-8080-exec-5:124180 ] - [ INFO ]  	Thu Jul 04 19:05:30 CST 2019	联想（Lenovo）小新V3000经典版	电脑办公	browse
+2019-07-04 19:05:36  [ http-bio-8080-exec-10:130085 ] - [ INFO ]  	Thu Jul 04 19:05:36 CST 2019	华为 HUAWEI Mate S 臻享版	手机数码	browse
+2019-07-04 19:05:49  [ http-bio-8080-exec-3:142807 ] - [ INFO ]  	华为 HUAWEI Mate S 臻享版	4087.0	手机数码	Thu Jul 04 19:05:49 CST 2019	order
